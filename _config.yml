@@ -4,11 +4,11 @@
 
 # Site
 title: 洛林的小木屋
-subtitle: 
+subtitle: Lorin's Blog
 description: 记点笔记，随便写写
 keywords: 
 author: LorinLee
-language: zh-Hans
+language: zh-CN
 timezone: Asia/Shanghai
 
 # URL
@@ -81,4 +81,3 @@ deploy:
   type: git
   repo: git@github.com:lorinlee/lorinlee.github.io.git
   branch: master
-
